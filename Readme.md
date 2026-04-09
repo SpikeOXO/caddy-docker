@@ -16,6 +16,7 @@
 --with github.com/caddy-dns/namecheap 
 --with github.com/caddy-dns/dynv6 
 --with github.com/caddy-dns/route53
+--with github.com/caddy-dns/huaweicloud
 --with github.com/mholt/caddy-dynamicdns
 ```
 有其他需要加的插件可以提。  
